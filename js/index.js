@@ -20,4 +20,4 @@ options = {
 vrvToolkit.setOptions(options)
 
 /* Show the score */
-showScore('score', 'data/example.mei') // <-- CHANGE THIS TO YOUR FILE
+showScore('score', 'data/Scott_Joplin_Maple_Leaf_Rag-with-sibelius.mei') // <-- CHANGE THIS TO YOUR FILE
